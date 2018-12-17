@@ -1,0 +1,1 @@
+ALTER TABLE photo ADD COLUMN oldfile varchar(255);
